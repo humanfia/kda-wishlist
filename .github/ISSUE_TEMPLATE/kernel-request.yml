@@ -1,6 +1,6 @@
 name: Kernel request
 description: Submit a reproducible kernel definition and workload for KDA to review.
-title: "[Kernel]: "
+title: "[KDA-wishlist]: "
 labels:
   - kernel-request
   - needs-triage
@@ -71,7 +71,7 @@ body:
     attributes:
       label: Target hardware
       description: Name the graphics processing unit or other accelerator and any minimum hardware requirements.
-      placeholder: NVIDIA B200, NVIDIA H100, or another explicit target
+      placeholder: NVIDIA B200, NVIDIA B200, or another explicit target (rubin on the way)
     validations:
       required: true
 
