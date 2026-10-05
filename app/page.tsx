@@ -1,7 +1,7 @@
 const NEW_REQUEST_URL =
-  'https://github.com/humanfia/KDA-wishlist/issues/new?template=kernel-request.yml';
-const ISSUES_URL = 'https://github.com/humanfia/KDA-wishlist/issues';
-const KDA_URL = 'https://github.com/mit-han-lab/kernel-design-agents';
+  'https://github.com/humanfia/kda-wishlist/issues/new?template=kernel-request.yml';
+const ISSUES_URL = 'https://github.com/humanfia/kda-wishlist/issues';
+const KDA_URL = 'https://github.com/NVlabs/kda';
 const FLASHINFER_TRACE_URL =
   'https://bench.flashinfer.ai/docs/flashinfer-trace';
 const TECH_REPORT_URL =
