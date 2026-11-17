@@ -3,7 +3,7 @@ import { GeistMono } from 'geist/font/mono';
 import { GeistSans } from 'geist/font/sans';
 import './globals.css';
 
-const siteUrl = process.env.SITE_URL ?? 'https://docs.humanfia.ai/kda-wishlist';
+const siteUrl = process.env.SITE_URL ?? 'https://humanfia.ai/kda-wishlist';
 
 export const metadata: Metadata = {
   metadataBase: new URL(`${siteUrl}/`),

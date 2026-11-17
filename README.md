@@ -2,9 +2,9 @@
 
 KDA Wishlist is a community program for turning reproducible kernel definitions into optimized kernel solutions. A kernel is a performance-critical program that runs on accelerated hardware, such as a graphics processing unit (GPU), and implements the core computation of a machine learning operation.
 
-Live site: <https://docs.humanfia.ai/kda-wishlist/>
+Live site: <https://humanfia.ai/kda-wishlist/>
 
-KDA stands for [Kernel Design Agents](https://humanfia.ai/projects/kda): a workflow in which coding agents research, implement, verify, profile, and iterate on performance-sensitive kernel tasks.
+KDA stands for [Kernel Design Agents](https://humanfia.ai/kda/): a workflow in which coding agents research, implement, verify, profile, and iterate on performance-sensitive kernel tasks.
 
 This website introduces the program, helps contributors prepare reproducible kernel definitions and workloads, and directs them to GitHub Issues. GitHub Issues is the repository's public request tracker, where contributors submit kernel needs, add useful context, and signal demand with thumbs-up reactions.
 
@@ -68,7 +68,7 @@ Submission does not guarantee selection. The program prioritizes tasks that affe
 
 ## References
 
-- [Kernel Design Agents project page](https://humanfia.ai/projects/kda)
+- [Kernel Design Agents project page](https://humanfia.ai/kda/)
 - [Kernel Design Agents workflow](https://github.com/NVlabs/kda)
 - [MLSys 2026 FlashInfer contest](https://mlsys26.flashinfer.ai/)
 - [Contest workflow and results release](https://github.com/mit-han-lab/mlsys2026-flashinfer-contest)
